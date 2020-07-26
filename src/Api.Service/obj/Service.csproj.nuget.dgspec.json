@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj": {}
+    "c:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj": {
+    "c:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "c:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj",
+        "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\kagic\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Biblioteca\\src\\Api.Data\\obj\\",
+        "outputPath": "c:\\Projetos\\Biblioteca\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj"
+              "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj": {
+    "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\kagic\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\obj\\",
+        "outputPath": "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj": {
+    "c:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj",
+        "projectUniqueName": "c:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj",
+        "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj",
         "packagesPath": "C:\\Users\\kagic\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Biblioteca\\src\\Api.Service\\obj\\",
+        "outputPath": "c:\\Projetos\\Biblioteca\\src\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -175,11 +175,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj"
+              "c:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj"
+              "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -193,6 +193,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[5.5.0, )"

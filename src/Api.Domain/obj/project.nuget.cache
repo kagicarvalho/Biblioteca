@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a46xxHbY/WmuGaYB9vBHMdKlHJAwEL2trDsvWZ0YcTb4mBxRZYz7PjnwtQX66iiJGX4wqbE7RoKwSnrdKDNlrg==",
+  "dgSpecHash": "fCcybL7TDWVIw8I9wIV+myVxisyfqTJGdy0zQWVustlqUs174qvM8cUlly3mDNb5Vp+2lAgos17zbKWrna/g7Q==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj",
+  "projectFilePath": "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kagic\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\kagic\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",

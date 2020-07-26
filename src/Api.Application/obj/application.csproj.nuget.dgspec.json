@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Biblioteca\\src\\Api.Application\\application.csproj": {}
+    "c:\\Projetos\\Biblioteca\\src\\Api.Application\\application.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Biblioteca\\src\\Api.Application\\application.csproj": {
+    "c:\\Projetos\\Biblioteca\\src\\Api.Application\\application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Biblioteca\\src\\Api.Application\\application.csproj",
+        "projectUniqueName": "c:\\Projetos\\Biblioteca\\src\\Api.Application\\application.csproj",
         "projectName": "application",
-        "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Application\\application.csproj",
+        "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Application\\application.csproj",
         "packagesPath": "C:\\Users\\kagic\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Biblioteca\\src\\Api.Application\\obj\\",
+        "outputPath": "c:\\Projetos\\Biblioteca\\src\\Api.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,14 +31,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-                "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\CrossCutting.csproj"
+              "c:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+                "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\CrossCutting.csproj"
               },
-              "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj"
+              "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj"
               },
-              "C:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj"
+              "c:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+    "c:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "c:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "packagesPath": "C:\\Users\\kagic\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\obj\\",
+        "outputPath": "c:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -110,14 +110,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj"
+              "c:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj"
+              "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj"
               },
-              "C:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj"
+              "c:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -131,6 +131,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.0.1, )"
@@ -155,14 +159,14 @@
         }
       }
     },
-    "C:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj": {
+    "c:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "c:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj",
+        "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\kagic\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Biblioteca\\src\\Api.Data\\obj\\",
+        "outputPath": "c:\\Projetos\\Biblioteca\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -182,8 +186,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj"
+              "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -237,14 +241,14 @@
         }
       }
     },
-    "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj": {
+    "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\kagic\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\obj\\",
+        "outputPath": "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -299,14 +303,14 @@
         }
       }
     },
-    "C:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj": {
+    "c:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj",
+        "projectUniqueName": "c:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj",
+        "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Service\\Service.csproj",
         "packagesPath": "C:\\Users\\kagic\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Biblioteca\\src\\Api.Service\\obj\\",
+        "outputPath": "c:\\Projetos\\Biblioteca\\src\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -326,11 +330,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj"
+              "c:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj"
+              "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -344,6 +348,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[5.5.0, )"

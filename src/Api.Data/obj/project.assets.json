@@ -5367,11 +5367,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj",
+      "projectUniqueName": "c:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj",
+      "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Data\\Data.csproj",
       "packagesPath": "C:\\Users\\kagic\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Biblioteca\\src\\Api.Data\\obj\\",
+      "outputPath": "c:\\Projetos\\Biblioteca\\src\\Api.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5391,8 +5391,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj"
+            "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Domain\\Domain.csproj"
             }
           }
         }

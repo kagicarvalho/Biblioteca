@@ -20,7 +20,10 @@
                 "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
             },
             "env": {
-                "ASPNETCORE_ENVIRONMENT": "Development"
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "BD_CONNECTION":"Server=.\\SQLEXPRESS;Initial Catalog=dbLibre;MultipleActiveResultSets=true; User Id=sa;Password=Mercuri@123",
+                "DATABASE":"SQLSERVER",
+                "MIGRATION":"NAOAPLICAR"
             },
             "sourceFileMap": {
                 "/Views": "${workspaceFolder}/Views"

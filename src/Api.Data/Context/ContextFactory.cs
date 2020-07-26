@@ -1,3 +1,4 @@
+using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
 
@@ -7,9 +8,12 @@ namespace Api.Data.Context
     {
         public MyContext CreateDbContext(string[] args)
         {
-            var connectionString = "Server=localhost;Port=3306;DataBase=dbBiblioteca;Uid=root;Pwd=teste123";
             var optionsBuilder = new DbContextOptionsBuilder<MyContext>();
-            optionsBuilder.UseMySql(connectionString);
+            if(Environment.GetEnvironmentVariable("DATABASE").ToLower() == "SQLSERVER".ToLower()){
+                optionsBuilder.UseSqlServer(Environment.GetEnvironmentVariable("DATABASE"));
+            }else{
+                optionsBuilder.UseSqlServer(Environment.GetEnvironmentVariable("DATABASE"));
+            }
             return new MyContext(optionsBuilder.Options);
         }
     }
