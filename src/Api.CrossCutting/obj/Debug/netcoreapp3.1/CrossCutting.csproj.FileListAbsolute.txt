@@ -7,3 +7,10 @@ C:\Projetos\Biblioteca\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting
 C:\Projetos\Biblioteca\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
 C:\Projetos\Biblioteca\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
 C:\Projetos\Biblioteca\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Projetos\Biblioteca\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.dll
+C:\Projetos\Biblioteca\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\Biblioteca\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.dll
+C:\Projetos\Biblioteca\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\Biblioteca\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Projetos\Biblioteca\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Projetos\Biblioteca\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete
