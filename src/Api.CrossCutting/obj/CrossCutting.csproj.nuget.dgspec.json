@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
+    "C:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
   },
   "projects": {
-    "c:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+    "C:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "C:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "packagesPath": "C:\\Users\\kagic\\.nuget\\packages\\",
-        "outputPath": "c:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\obj\\",
+        "outputPath": "C:\\Projetos\\Biblioteca\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

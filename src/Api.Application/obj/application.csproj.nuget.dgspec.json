@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projetos\\Biblioteca\\src\\Api.Application\\application.csproj": {}
+    "C:\\Projetos\\Biblioteca\\src\\Api.Application\\application.csproj": {}
   },
   "projects": {
-    "c:\\Projetos\\Biblioteca\\src\\Api.Application\\application.csproj": {
+    "C:\\Projetos\\Biblioteca\\src\\Api.Application\\application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projetos\\Biblioteca\\src\\Api.Application\\application.csproj",
+        "projectUniqueName": "C:\\Projetos\\Biblioteca\\src\\Api.Application\\application.csproj",
         "projectName": "application",
-        "projectPath": "c:\\Projetos\\Biblioteca\\src\\Api.Application\\application.csproj",
+        "projectPath": "C:\\Projetos\\Biblioteca\\src\\Api.Application\\application.csproj",
         "packagesPath": "C:\\Users\\kagic\\.nuget\\packages\\",
-        "outputPath": "c:\\Projetos\\Biblioteca\\src\\Api.Application\\obj\\",
+        "outputPath": "C:\\Projetos\\Biblioteca\\src\\Api.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

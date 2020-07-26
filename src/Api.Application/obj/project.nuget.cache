@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BX2OfhkWJBJVr9MsASrZMaY6K5Jeb9470ucowFoWr3WBDnLZZkkqlvR0x6s9QGLHgFy1s0Un1ldLUeodIBAMtA==",
+  "dgSpecHash": "PXaoClnqemErNEsLsceGTrYkSZnOeOO3EzEQpn9lVqXiTbpH8l1uwTp4iBrgtZ2a8YgbCghAb4JVqkuG89+h1w==",
   "success": true,
-  "projectFilePath": "c:\\Projetos\\Biblioteca\\src\\Api.Application\\application.csproj",
+  "projectFilePath": "C:\\Projetos\\Biblioteca\\src\\Api.Application\\application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
